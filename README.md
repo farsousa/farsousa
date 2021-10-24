@@ -1,6 +1,6 @@
 # 👋 Hi, Welcome to my GitHub Profile 
 
-## :wink: About me?
+## :wink: About me
 - I'm Anderson, a great system developer . 
 - I'm looking for opportunities and collaboration in projects related to Web Java Programming.
 - I’m currently learning Spring and VueJS Frameworks.
