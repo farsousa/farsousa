@@ -13,7 +13,7 @@
 - But now I'm focusing on Spring and Vue.
 
 ## :scroll: Knowledge acquired
-### Backend Java + Spring Framework
+### Backend: Java + Spring Framework
 - Servlet :thumbsup:
 - Maven :thumbsup:
 - JDBC :thumbsup:
