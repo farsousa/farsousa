@@ -12,7 +12,8 @@
 - And, in frontend programming, I was able to try out React and Vue.
 - But now I'm focusing on Spring and Vue.
 
-## :scroll: Knowledge Acquired on Spring
+## :scroll: Knowledge acquired
+### Backend Java + Spring Framework
 - Servlet :thumbsup:
 - Maven :thumbsup:
 - JDBC :thumbsup:
