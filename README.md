@@ -11,3 +11,14 @@
 - That way, in the backend programming, I could try Django (Python), Express (JavaScript), Laravel (PHP) and Spring (Java). 
 - And, in frontend programming, I was able to try out React and Vue.
 - But now I'm focusing on Spring and Vue.
+
+## :scroll: Knowledge Acquired on Spring
+- Servlet :thumbsup:
+- Maven :thumbsup:
+- JDBC :thumbsup:
+- Hibernate + JPA :thumbsup:
+- Spring Data :thumbsup:
+- Spring MVC :thumbsup:
+- Spring Security Form :thumbsup:
+- Spring REST :man_technologist:
+- Spring Security JWT
