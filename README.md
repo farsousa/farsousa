@@ -10,4 +10,4 @@
 - Because I'm very curious, I've been experimenting with different frameworks to understand them and find a pattern for how they work. 
 - That way, in the backend programming, I could try Django (Python), Express (JavaScript), Laravel (PHP) and Spring (Java). 
 - And, in frontend programming, I was able to try out React and Vue.
-- But, I'm now focusing on Spring and Vue.
+- But now I'm focusing on Spring and Vue.
