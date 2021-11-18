@@ -21,5 +21,5 @@
 - Spring Data :thumbsup:
 - Spring MVC :thumbsup:
 - Spring Security Form :thumbsup:
-- Spring REST :man_technologist:
-- Spring Security JWT
+- Spring REST :thumbsup:
+- Spring Security JWT :man_technologist:
