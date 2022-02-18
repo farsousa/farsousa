@@ -23,3 +23,10 @@
 - Spring Security Form :thumbsup:
 - Spring REST :thumbsup:
 - Spring Security JWT :man_technologist:
+
+### Frontend: Javascript + Vue
+- SPA :thumbsup:
+- Diretivas :thumbsup:
+- Consumir API :thumbsup:
+- Rotas :man_technologist:
+- Vuetify :thumbsup:
