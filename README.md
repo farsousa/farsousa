@@ -22,11 +22,15 @@
 - Spring MVC :thumbsup:
 - Spring Security Form :thumbsup:
 - Spring REST :thumbsup:
+- Validation: :thumbsup:
+- Pagination: :thumbsup:
+- Swagger: :man_technologist:
 - Spring Security JWT :man_technologist:
 
 ### Frontend: Javascript + Vue
 - SPA :thumbsup:
 - Diretivas :thumbsup:
-- Consumir API :thumbsup:
-- Rotas :man_technologist:
-- Vuetify :thumbsup:
+- Axios :thumbsup:
+- Rotas :thumbsup:
+- Vuetify :man_technologist:
+- Nuxt :man_technologist:
