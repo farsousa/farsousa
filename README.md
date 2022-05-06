@@ -24,7 +24,7 @@
 - Spring REST :thumbsup:
 - Validation: :thumbsup:
 - Pagination: :thumbsup:
-- Swagger: :man_technologist:
+- Swagger: :thumbsup:
 - Spring Security JWT :man_technologist:
 
 ### Frontend: Javascript + Vue
