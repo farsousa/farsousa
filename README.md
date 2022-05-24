@@ -31,6 +31,6 @@
 - SPA :thumbsup:
 - Diretivas :thumbsup:
 - Axios :thumbsup:
-- Rotas :thumbsup:
-- Vuetify :man_technologist:
+- Vuetify :thumbsup:
 - Nuxt :man_technologist:
+- Vuex :man_technologist:
