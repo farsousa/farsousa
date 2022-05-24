@@ -19,7 +19,7 @@
 - JDBC :thumbsup:
 - Hibernate + JPA :thumbsup:
 - Spring Data :thumbsup:
-- Spring MVC :thumbsup:
+- Spring MVC + Thymeleaf :thumbsup:
 - Spring Security Form :thumbsup:
 - Spring REST :thumbsup:
 - Validation: :thumbsup:
